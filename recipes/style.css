@@ -1,0 +1,27 @@
+body {
+    color:white;
+    background-color: black;
+}
+
+.image {
+    width:400px;
+    height:auto;
+}
+
+h1 {
+    color:brown;
+    font-weight: bolder;
+}
+
+h2 {
+    color:cadetblue;
+    font-weight:bold;
+}
+
+h3 {
+    color:purple;
+}
+
+ul, ol {
+    color:lightsalmon;
+}
